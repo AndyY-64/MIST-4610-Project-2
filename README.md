@@ -14,6 +14,8 @@ Shivani Menon, - https://github.com/shivanimenon
 
 Andrew Pruitt, - https://github.com/andrewpruitt033
 
+
+
 Dataset and Information:
 
 Source: DC Crime Incidents 2025 — obtained from the U.S. Data.gov open data catalog, published by the District of Columbia Metropolitan Police Department (MPD). Dimensions: 24,151 rows × 25 columns Date Range: January 1, 2025 – January 1, 2026
